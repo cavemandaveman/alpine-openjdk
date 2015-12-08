@@ -6,5 +6,5 @@ Meant to be used as a super small base image for running Java applications/servi
 
 Benefits:
 - latest stable Alpine Linux (3.2)
-- latest OpenJDK (openjdk8) instead of previous version
+- latest OpenJDK (openjdk8)
 - use JRE-base (no GUI) instead of full JRE or full JDK which are overkill for running Java apps/services
