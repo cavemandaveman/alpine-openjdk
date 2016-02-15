@@ -5,6 +5,6 @@ This builds a small (~110MB) docker image with a simple openjdk8 JRE running on 
 Meant to be used as a super small base image for running Java applications/services in a container.
 
 Benefits:
-- latest stable Alpine Linux (3.2)
-- latest OpenJDK (openjdk8)
+- latest stable Alpine Linux (3.3)
+- latest OpenJDK (1.8.0)
 - use JRE-base (no GUI) instead of full JRE or full JDK which are overkill for running Java apps/services
